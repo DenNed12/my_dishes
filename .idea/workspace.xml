@@ -4,18 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e233137-c153-4281-b525-be63f5e8dd06" name="Changes" comment="backend v1.1 admin site added">
-      <change afterPath="$PROJECT_DIR$/dishes/frontend/src/components/CategoryList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dishes/frontend/src/components/Navbar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dishes/frontend/src/components/RecipeDetail.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dishes/frontend/src/components/RecipeList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dishes/frontend/src/pages/CategoryPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dishes/frontend/src/pages/HomePage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dishes/frontend/src/pages/RecipePage.js" afterDir="false" />
+    <list default="true" id="1e233137-c153-4281-b525-be63f5e8dd06" name="Changes" comment="frontend and api">
+      <change afterPath="$PROJECT_DIR$/dishes/frontend/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dishes/frontend/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dishes/frontend/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dishes/frontend/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dishes/frontend/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dishes/frontend/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dishes/frontend/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dishes/frontend/src/setupTests.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dishes/dish_api/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/dishes/dish_api/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dishes/main/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/dishes/main/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dishes/main/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/dishes/main/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,12 +76,21 @@
       <option name="project" value="LOCAL" />
       <updated>1744130006201</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="frontend and api">
+      <option name="closed" value="true" />
+      <created>1744740240336</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1744740240337</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="backend v1" />
     <MESSAGE value="backend v1.1 admin site added" />
-    <option name="LAST_COMMIT_MESSAGE" value="backend v1.1 admin site added" />
+    <MESSAGE value="frontend and api" />
+    <option name="LAST_COMMIT_MESSAGE" value="frontend and api" />
   </component>
 </project>
